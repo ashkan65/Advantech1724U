@@ -1,9 +1,10 @@
 # Advantech1724U
-A simple example of Advantech1724U using comedi and cmake file. 
+A simple example of analogwrite for Advantech1724U using comedi and cmake file. 
 
 First install the Comedi
 
-cd to build directoy
+mkdir build 
+cd build 
 cmake ..
 make
 
